@@ -1,0 +1,29 @@
+[1mdiff --git a/src/index.html b/src/index.html[m
+[1mindex 9bcfbc6..3548187 100644[m
+[1m--- a/src/index.html[m
+[1m+++ b/src/index.html[m
+[36m@@ -7,13 +7,13 @@[m
+     <meta name="keywords" content="data science, software development, jobs">[m
+     <meta name="author" content="Jovian">[m
+     <meta name="robots" content="index, follow">[m
+[31m-    <meta property="og:title" content="Jovian Careers | Build A Successful Career In Tech">[m
+[32m+[m[32m    <meta property="og:title" content="Jovian Careers">[m
+     <meta property="og:description" content="Learn about job openings at Jovian and submit your application now">[m
+     <meta property="og:image" content="/jovian_meta.png">[m
+     <meta name="twitter:title" content="Jovian Careers">[m
+     <meta name="twitter:description" content="Learn about job openings at Jovian and submit your application now">[m
+     <meta name="twitter:image" content="/jovian_meta.png">[m
+[31m-    <title>Jovian Careers | Build A Successful Career In Tech</title>[m
+[32m+[m[32m    <title>Jovian Careers</title>[m
+     <link rel="icon" href="logo.png" type="image/x-icon">[m
+     <link rel="preconnect" href="https://fonts.googleapis.com">[m
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>[m
+[36m@@ -29,7 +29,7 @@[m
+     <img id="banner" src="banner.jpg" alt="Banner" height="240">[m
+ [m
+     <h1>[m
+[31m-        About Jovian[m
+[32m+[m[32m        Welcome To Jovian[m
+     </h1>[m
+ [m
+     <div id="about">[m
